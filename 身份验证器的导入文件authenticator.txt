@@ -1,0 +1,6 @@
+otpauth://totp/Notion:hhf505230%40gmail.com?secret=NJ3S6ILPNUBQMNYT&issuer=Notion
+otpauth://totp/Zoho:hhf505230%40gmail.com?secret=FE2ZVDKGNE7HLLJY&issuer=Zoho
+otpauth://totp/Cloudflare:hhf505230%40gmail.com?secret=HKBBGTQBF6NAZCBRJ3HWQTRFD6XXDDO6&issuer=Cloudflare
+otpauth://totp/Microsoft:hhf505230%40gmail.com?secret=44ZB4JAZVNV6KW2F&issuer=Microsoft
+otpauth://totp/Google:hhf505230%40gmail.com?secret=jupqzub2dmdeiwtkonoaphtgs7kbzbxm&issuer=Google
+otpauth://totp/GitHub:damimi88?secret=LJEJWJDAEBU54VNJ&issuer=GitHub
